@@ -8,4 +8,4 @@
 
 [![codewars](https://www.codewars.com/users/volvad/badges/large)](https://www.codewars.com/users/volvad)
 
-[![sololearn](/img/sololearn.png)](https://www.sololearn.com/profile/26999565)
+[![sololearn](/img/sololearn.png)](https://www.sololearn.com/profile/26835374)
