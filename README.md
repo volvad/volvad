@@ -10,4 +10,4 @@
 
 [![sololearn](/img/sololearn.png)](https://www.sololearn.com/profile/26835374)
 
-[![HTML](https://www.sololearn.com/certificates/CT-SQ6A1MI1)]
+[![HTML](https://www.sololearn.com/certificates/CT-SQ6A1MI1)](https://www.sololearn.com/certificates/CT-SQ6A1MI1)
