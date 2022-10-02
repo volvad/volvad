@@ -6,7 +6,7 @@
   </a>
 </h1>
 
-[![codewars](https://www.codewars.com/users/volvad/badges/large)](https://www.codewars.com/users/volvad)
+<img src="/img/codewars.png" width=180 alt=""/>[![codewars](https://www.codewars.com/users/volvad/badges/large)](https://www.codewars.com/users/volvad)
 
 [<img src="/img/sololearn.png" width=180 alt=""/>](https://www.sololearn.com/profile/26835374)
 
