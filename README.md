@@ -7,7 +7,9 @@
 </h1>
 
 [<img src="/img/codewars.png" width=178 alt=""/>](https://www.codewars.com/users/volvad)[![codewars](https://www.codewars.com/users/volvad/badges/large)](https://www.codewars.com/users/volvad)
-<hr><style>hr{height: 1px}</style>
+
+<style> hr {height: 1px;} </style>
+<hr>
 
 [<img src="/img/sololearn.png" width=150 alt=""/>](https://www.sololearn.com/profile/26835374)
 
