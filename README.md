@@ -8,4 +8,6 @@
 
 [![codewars](https://www.codewars.com/users/volvad/badges/large)](https://www.codewars.com/users/volvad)
 
-[![sololearn](/img/sl.png)](https://www.sololearn.com/profile/26999565)
+[![sololearn](/img/sololearn.png)](https://www.sololearn.com/profile/26835374)
+
+<img src="https://api2.sololearn.com/v2/certificates/CT-SQ6A1MI1/image/jpg" width="150" alt=""/>
