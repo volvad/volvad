@@ -9,3 +9,5 @@
 [![codewars](https://www.codewars.com/users/volvad/badges/large)](https://www.codewars.com/users/volvad)
 
 [![sololearn](/img/sololearn.png)](https://www.sololearn.com/profile/26835374)
+
+[![HTML](https://www.sololearn.com/certificates/CT-SQ6A1MI1)]
