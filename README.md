@@ -5,6 +5,7 @@
     Vadim
   </a>
 </h1>
+<hr>
 
 [<img src="/img/codewars.png" width=178 alt=""/>](https://www.codewars.com/users/volvad)[![codewars](https://www.codewars.com/users/volvad/badges/large)](https://www.codewars.com/users/volvad)
 <hr>
