@@ -10,4 +10,4 @@
 
 [![sololearn](/img/sololearn.png)](https://www.sololearn.com/profile/26835374)
 
-<img src="https://api2.sololearn.com/v2/certificates/CT-SQ6A1MI1/image/jpg" width="375" alt=""/>
+<img src="https://api2.sololearn.com/v2/certificates/CT-SQ6A1MI1/image/jpg" width="250" alt=""/>
