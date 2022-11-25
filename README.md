@@ -14,4 +14,3 @@
 
 <img src="https://api2.sololearn.com/v2/certificates/CT-SQ6A1MI1/image/jpg" width="137" alt=""/><span> </span><img src="https://api2.sololearn.com/v2/certificates/CT-B4FLEIUB/image/jpg" width="137" alt=""/><span> </span><img src="https://api2.sololearn.com/v2/certificates/CT-MJLRBSF8/image/jpg" width="137" alt=""/><span> </span><img src="https://api2.sololearn.com/v2/certificates/CT-CXXDMAKR/image/jpg" width="137" alt=""/><span> </span><img src="https://api2.sololearn.com/v2/certificates/CT-LYXVFLKE/image/jpg" width="137" alt=""/><span> </span><img src="https://api2.sololearn.com/v2/certificates/CT-UIIWTN3T/image/jpg" width="137" alt=""/><span> </span><img src="https://api2.sololearn.com/v2/certificates/CT-SJWLRLEM/image/jpg" width="137" alt=""/><span> </span><img src="https://api2.sololearn.com/v2/certificates/CT-LKPGUQAR/image/jpg" width="137" alt=""/>
 <hr>
-***
